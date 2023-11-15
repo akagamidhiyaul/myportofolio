@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Metal+Mania&family=Noto+Sans+JP&display=swap');
+* {
+    font-family: 'Metal Mania';
+    margin:0;
+    padding:0;
+}
+html{
+    scroll-behavior: smooth ;
+}
+
+header nav li :hover {
+    font-size: 22px;
+}
+
+nav ul {
+    margin-left: 800px;
+}
+
+nav li {
+    float:left;
+    margin:15px;
+    padding: 14px 20px;
+    
+}
+.epep li a {
+    color:rgb(255, 255, 255);
+}
+
+.gambar {
+    padding-left: 90px;
+    width: 400px;
+    height: 680px;
+    margin-bottom: 1000px;
+    margin-top: -260px;
+}
+
+img {
+    width: 390px;
+    height: 200px;
+ }
+
+ .baground {
+     width: 30px;
+ }
+
+ a {
+    color: white;
+}
+
+hr {
+    size: 300px;
+}
+
+span {
+    color:gray;
+    font-size:50px ;
+}
+
+.rafif {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.tentang {
+    margin-left: 600px;
+    margin-top: 200px;
+    font-size: 35px;
+}
+
+.rie {
+    margin-left: 610px;
+    font-size: 40px;
+    color:rgb(0, 153, 255)
+}

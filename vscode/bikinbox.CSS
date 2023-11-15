@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    color:white;
+    text-align: center;
+}
+
+.d1 {
+    background-color: red;
+    width:330px;
+    padding:240px 0px;
+    margin-left: 1x;
+    font-size: 25px;    
+}
+
+.d2 {
+    background-color: blue;
+    width: 250px;
+    padding:150px 0px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+.d3 {
+    background-color:green;
+    width:200px;
+    padding:75px 0px;
+    margin-left:30px;
+    font-size:25px;
+}
+
+.d3 b {
+    position:absolute;
+    margin:85px -18px;
+    z-index:10px;
+}
+

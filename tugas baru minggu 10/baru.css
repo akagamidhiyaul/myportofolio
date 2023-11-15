@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.atas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(https://asset-2.tstatic.net/banten/foto/bank/images/One-Piece-Roronoa-Zoro-sesat.jpg);
+    background-size: 1700px;
+    padding: 190px 0 700px 0;
+    text-align: center;
+    flex-direction: column;
+    justify-content:space-evenly ;
+    height: 300px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+    font-family: arial;
+    font-weight: bold;
+    border: 1px solid black;
+    line-height: 50px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 5px;
+    transition: all 0.5s ease;
+}
+
+.atas a:hover {
+    background-color: rgb(0, 140, 255);
+    box-shadow: 0 20px 50px gray;
+}
